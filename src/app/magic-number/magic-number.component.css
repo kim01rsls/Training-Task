@@ -1,0 +1,10 @@
+button {
+    margin-left: 20px;
+}
+input {
+    width: 90px;
+}
+span {
+    color: red;
+    font-weight: 700;
+}
